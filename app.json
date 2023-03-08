@@ -4,7 +4,7 @@
     "slug": "MHFU_Database",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/MHFU.jpg",
+    "icon": "./assets/MHFU.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/loading.png",
@@ -24,10 +24,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.skmz.MHFU_Database"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f9b9c17c-c7d4-4d70-8b39-95a2a700eebb"
+      }
     }
   }
 }
