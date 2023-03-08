@@ -4,10 +4,10 @@
     "slug": "MHFU_Database",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/MHFU.jpg",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/loading.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
